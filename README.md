@@ -1,2 +1,2 @@
-# https://mabidux.github.io/CanvasSpriteMaker/
+# https://matheusabido.github.io/CanvasSpriteMaker/
 um criador de sprites para canvas
